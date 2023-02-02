@@ -12,6 +12,8 @@
 		AD75230929894A8B0042299A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD75230829894A8B0042299A /* Assets.xcassets */; };
 		AD75230C29894A8B0042299A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD75230B29894A8B0042299A /* Preview Assets.xcassets */; };
 		AD75231329894E1C0042299A /* ColorOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75231229894E1C0042299A /* ColorOption.swift */; };
+		ADC5B20F298C31C200271E10 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B20E298C31C200271E10 /* Event.swift */; };
+		ADC5B211298C31FF00271E10 /* EventTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B210298C31FF00271E10 /* EventTask.swift */; };
 		ADFDA3E4298AE14E0098A293 /* CustomLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFDA3E3298AE14E0098A293 /* CustomLabelStyle.swift */; };
 /* End PBXBuildFile section */
 
@@ -22,6 +24,8 @@
 		AD75230829894A8B0042299A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD75230B29894A8B0042299A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AD75231229894E1C0042299A /* ColorOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorOption.swift; sourceTree = "<group>"; };
+		ADC5B20E298C31C200271E10 /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		ADC5B210298C31FF00271E10 /* EventTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventTask.swift; sourceTree = "<group>"; };
 		ADFDA3E3298AE14E0098A293 /* CustomLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLabelStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,7 +62,9 @@
 				AD75230429894A8A0042299A /* Date_PlannerApp.swift */,
 				AD75230629894A8A0042299A /* ContentView.swift */,
 				AD75231229894E1C0042299A /* ColorOption.swift */,
+				ADC5B210298C31FF00271E10 /* EventTask.swift */,
 				ADFDA3E3298AE14E0098A293 /* CustomLabelStyle.swift */,
+				ADC5B20E298C31C200271E10 /* Event.swift */,
 				AD75230829894A8B0042299A /* Assets.xcassets */,
 				AD75230A29894A8B0042299A /* Preview Content */,
 			);
@@ -146,7 +152,9 @@
 				AD75230729894A8A0042299A /* ContentView.swift in Sources */,
 				ADFDA3E4298AE14E0098A293 /* CustomLabelStyle.swift in Sources */,
 				AD75230529894A8A0042299A /* Date_PlannerApp.swift in Sources */,
+				ADC5B211298C31FF00271E10 /* EventTask.swift in Sources */,
 				AD75231329894E1C0042299A /* ColorOption.swift in Sources */,
+				ADC5B20F298C31C200271E10 /* Event.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
