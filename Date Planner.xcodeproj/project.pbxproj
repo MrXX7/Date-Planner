@@ -15,6 +15,7 @@
 		AD75231329894E1C0042299A /* ColorOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD75231229894E1C0042299A /* ColorOption.swift */; };
 		ADC5B20F298C31C200271E10 /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B20E298C31C200271E10 /* Event.swift */; };
 		ADC5B211298C31FF00271E10 /* EventTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC5B210298C31FF00271E10 /* EventTask.swift */; };
+		ADD27A752996C19E0056403E /* EventRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD27A742996C19E0056403E /* EventRow.swift */; };
 		ADDFE7A2298D7E3800C9DFB1 /* TaskRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDFE7A1298D7E3800C9DFB1 /* TaskRow.swift */; };
 		ADE9EBC2298EB6A60042BD99 /* EventList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADE9EBC1298EB6A60042BD99 /* EventList.swift */; };
 		ADFDA3E4298AE14E0098A293 /* CustomLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADFDA3E3298AE14E0098A293 /* CustomLabelStyle.swift */; };
@@ -30,6 +31,7 @@
 		AD75231229894E1C0042299A /* ColorOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorOption.swift; sourceTree = "<group>"; };
 		ADC5B20E298C31C200271E10 /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
 		ADC5B210298C31FF00271E10 /* EventTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventTask.swift; sourceTree = "<group>"; };
+		ADD27A742996C19E0056403E /* EventRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventRow.swift; sourceTree = "<group>"; };
 		ADDFE7A1298D7E3800C9DFB1 /* TaskRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskRow.swift; sourceTree = "<group>"; };
 		ADE9EBC1298EB6A60042BD99 /* EventList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventList.swift; sourceTree = "<group>"; };
 		ADFDA3E3298AE14E0098A293 /* CustomLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLabelStyle.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 				AD75231229894E1C0042299A /* ColorOption.swift */,
 				ADC5B210298C31FF00271E10 /* EventTask.swift */,
 				AD5EA8DC2990288400B9E322 /* EventEditor.swift */,
+				ADD27A742996C19E0056403E /* EventRow.swift */,
 				ADFDA3E3298AE14E0098A293 /* CustomLabelStyle.swift */,
 				ADE9EBC1298EB6A60042BD99 /* EventList.swift */,
 				ADDFE7A1298D7E3800C9DFB1 /* TaskRow.swift */,
@@ -165,6 +168,7 @@
 				AD75230529894A8A0042299A /* Date_PlannerApp.swift in Sources */,
 				ADC5B211298C31FF00271E10 /* EventTask.swift in Sources */,
 				AD75231329894E1C0042299A /* ColorOption.swift in Sources */,
+				ADD27A752996C19E0056403E /* EventRow.swift in Sources */,
 				ADDFE7A2298D7E3800C9DFB1 /* TaskRow.swift in Sources */,
 				ADC5B20F298C31C200271E10 /* Event.swift in Sources */,
 			);
